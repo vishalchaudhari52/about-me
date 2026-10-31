@@ -181,8 +181,8 @@ timeline
 
 ## 🎓 `> education --history`
 
-| Degree | Board / University | Year |
-|:---|:---|:---:|:---:|
+| Degree | Board / University  | Year |
+|:---|:---|:---:|
 | **B.E. Electronics & Telecommunication** | North Maharashtra University (NMU), Jalgaon | 2017 |
 | HSC (12th) | Maharashtra State Board | 2012 |
 | SSC (10th) | Maharashtra State Board | 2010 |
