@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Application+Security+%7C+Network+Security+%7C+Mobile+Security+%7C+Cloud+Security" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Application+Security+%7C+Network+Security+%7C+Mobile+Security+%7C+Cloud+Security+%7C+VAPT+%7C+Red+Team+Mindset" alt="Typing SVG" />
 </div>
 
 <br>
@@ -24,14 +24,14 @@
 ## 🚨 SYSTEM PROFILE
 
 <div align="center">
-  <table style="background: #050b12; border: 1px solid #1eb8ff; border-radius: 18px; overflow: hidden; width: 100%; color: #e2f3ff; box-shadow: 0 0 20px rgba(0,217,255,0.12), inset 0 0 18px rgba(0,217,255,0.08);">
+  <table style="background: #050b12; border: 1px solid #1eb8ff; border-radius: 18px; overflow: hidden; width: 100%; color: #e2f3ff; box-shadow: 0 0 20px rgba(0,217,255,0.12), inset 0 0 18px rgba(0,217,255,0.05); border-collapse: collapse;">
     <tr>
       <td width="100%" valign="top" style="padding: 22px; color: #e2f3ff;">
         <p align="left" style="font-size: 15px; line-height: 1.7; color: #e2f3ff; margin: 0 0 12px 0;">
-          <strong>Seasoned Cyber Security Specialist</strong> with 6+ years of hands-on experience in application and network security testing, specializing in WAPT, MAPT, and Network VAPT. I have reviewed and assessed production environments across web, mobile, and cloud platforms.
+          <strong>Seasoned Cyber Security Specialist</strong> with 6+ years of hands-on experience in application and network security testing, specializing in WAPT, MAPT, and Network VAPT. I have reviewed and tested multiple business-critical web and mobile applications across diverse industries.
         </p>
         <p align="left" style="font-size: 15px; line-height: 1.7; color: #dbeafe; margin: 0;">
-          I bring practical expertise in <strong>Burp Suite Pro</strong>, <strong>MobSF</strong>, <strong>Frida</strong>, <strong>ADB</strong>, <strong>Nmap</strong>, and secure cloud assessments across enterprise applications.
+          I bring practical expertise in <strong>Burp Suite Pro</strong>, <strong>MobSF</strong>, <strong>Frida</strong>, <strong>ADB</strong>, <strong>Nmap</strong>, and secure cloud assessments across modern technology stacks.
         </p>
       </td>
     </tr>
@@ -44,7 +44,7 @@
 
 | Metric | Value |
 | --- | ---: |
-| Experience | <!-- EXPERIENCE_AUTO --> |
+| Experience | 6+ Years |
 | Applications Tested | 25+ |
 | Critical / High Findings | 20+ |
 | Career Positions | 4 |
@@ -55,13 +55,13 @@
 
 | Category | Core Skills |
 | --- | --- |
-| Application Security | ![WAPT](https://img.shields.io/badge/WAPT-Web_Application_Penetration_Testing-0E75B6?style=flat-square) ![MAPT](https://img.shields.io/badge/MAPT-Mobile_Application_Penetration_Testing-0E75B6?style=flat-square) ![VAPT](https://img.shields.io/badge/VAPT-Vulnerability_Assessment-0E75B6?style=flat-square) |
-| Network Security | ![Nmap](https://img.shields.io/badge/Nmap-7.94-0E75B6?style=flat-square&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-Scanner-FFD43B?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-5C5C5C?style=flat-square) |
-| Mobile Security | ![Frida](https://img.shields.io/badge/Frida-Framework-00ADEF?style=flat-square) ![ADB](https://img.shields.io/badge/ADB-Android_Debug_Bridge-3A3A3A?style=flat-square) ![MobSF](https://img.shields.io/badge/MobSF-Mobile_Security-00AEEF?style=flat-square) |
-| Cloud Security | ![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AWS VPC](https://img.shields.io/badge/AWS-VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
-| Security Tools | ![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-Professional-FF6B35?style=flat-square) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-ZAP-4B9CD3?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-FF0000?style=flat-square) |
-| Programming & Databases | ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square) |
-| Security Methodologies | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT&CK-7A5CFA?style=flat-square) ![CWE](https://img.shields.io/badge/CWE-Common_Weaknesses-FF4D6D?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-Top_10-5E8E3E?style=flat-square) |
+| Application Security | ![WAPT](https://img.shields.io/badge/WAPT-Web_Application_Penetration_Testing-0E75B6?style=flat-square) ![MAPT](https://img.shields.io/badge/MAPT-Mobile_Application_Penetration_Testing-0E75B6?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-Top_10-FF6B35?style=flat-square) |
+| Network Security | ![Nmap](https://img.shields.io/badge/Nmap-7.94-0E75B6?style=flat-square&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-Scanner-FFD43B?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=flat-square) |
+| Mobile Security | ![Frida](https://img.shields.io/badge/Frida-Framework-00ADEF?style=flat-square) ![ADB](https://img.shields.io/badge/ADB-Android_Debug_Bridge-3A3A3A?style=flat-square) ![MobSF](https://img.shields.io/badge/MobSF-Mobile_Security_Framework-00C7B7?style=flat-square) |
+| Cloud Security | ![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AWS VPC](https://img.shields.io/badge/AWS-VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Security-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| Security Tools | ![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-Professional-FF6B35?style=flat-square) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-ZAP-4B9CD3?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-FF6B35?style=flat-square) |
+| Programming & Databases | ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-CC2927?style=flat-square) |
+| Security Methodologies | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT&CK-7A5CFA?style=flat-square) ![CWE](https://img.shields.io/badge/CWE-Common_Weaknesses-FF4D6D?style=flat-square) ![OWASP ASVS](https://img.shields.io/badge/OWASP-ASVS-6A5ACD?style=flat-square) |
 
 <br>
 
@@ -70,8 +70,8 @@
 <details open>
 <summary><strong>Cyber Security Specialist</strong> · Confidential Organization · June 2025 – Present · Pune, Maharashtra</summary>
 
-- Lead, review, and test 25+ critical production web and mobile applications through in-depth manual VAPT, WAPT, and MAPT assessments.
-- Uncovered 20+ Critical/High-severity business logic flaws, IDORs, and authentication bypasses.
+- Lead, review, and execute 25+ critical production web and mobile application assessments through in-depth manual VAPT, WAPT, and MAPT testing.
+- Identify 20+ critical/high-severity business logic flaws, IDORs, and authentication bypasses.
 - Document findings and exploit paths using Burp Suite Pro, MobSF, Frida, ADB, and Nmap.
 - Coordinate vulnerability retesting and track end-to-end remediation cycles to closure.
 - Maintain internal security testing checklists aligned with OWASP, MITRE ATT&CK, and CWE standards.
@@ -94,7 +94,7 @@
 
 - Executed manual and automated VAPT for client web and mobile applications.
 - Used Burp Suite Pro, MobSF, ADB, Frida, and OWASP ZAP.
-- Discovered XSS, SQL Injection, IDOR, CSRF, Broken Authentication, and Insecure Storage vulnerabilities.
+- Discovered XSS, SQL Injection, IDOR, CSRF, broken authentication, and insecure storage vulnerabilities.
 - Prepared structured technical security reports with severity ratings.
 - Collaborated with development teams to validate security fixes through retesting.
 
@@ -114,17 +114,17 @@
 
 ## 🏆 CERTIFICATIONS & CREDENTIALS
 
-- Certified Ethical Hacker (CEH v8) — Active & Maintained via ECE credits
+- Certified Ethical Hacker (CEH v8) — Active and maintained via ECE credits
 - Certified Information Security Consultant
-- AWS Certified Security - Specialty — In Progress (Expected December 2026)
+- AWS Certified Security — Specialty (In Progress; expected December 2026)
 
 <br>
 
 ## 🔍 RESPONSIBLE DISCLOSURE
 
-- Identified a missing SPF record enabling potential email spoofing and reported it through responsible disclosure, reducing phishing risks for the vendor.
+- Identified a missing SPF record that could enable email spoofing and reported it through responsible disclosure, reducing phishing risk for the vendor.
 - Discovered and responsibly disclosed a critical web-platform security vulnerability.
-- Coordinated remediation directly with vendor engineering teams to improve platform security posture.
+- Coordinated remediation directly with vendor engineering teams to improve the platform security posture.
 
 <br>
 
