@@ -183,9 +183,9 @@ timeline
 
 | Degree | Board / University | Score | Year |
 |:---|:---|:---:|:---:|
-| **B.E. Electronics & Telecommunication** | North Maharashtra University (NMU), Jalgaon | 63.80% | 2017 |
-| HSC (12th) | Maharashtra State Board | 59.00% | 2012 |
-| SSC (10th) | Maharashtra State Board | 76.00% | 2010 |
+| **B.E. Electronics & Telecommunication** | North Maharashtra University (NMU), Jalgaon | 2017 |
+| HSC (12th) | Maharashtra State Board | 2012 |
+| SSC (10th) | Maharashtra State Board | 2010 |
 
 
 
